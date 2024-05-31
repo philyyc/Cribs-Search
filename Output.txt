@@ -1,0 +1,238 @@
+ENGINEERING TRIPOS 
+PART IB  
+Monday 4 June 2012 2 to 4 
+Paper 2 
+STRUCTURES 
+Answer not more than/our questions, which may be taken from either section.  
+All questions carry the same number ofmarks.  
+The approximate number ofmarks allocated to each part ofa question is indicated  
+in the right margin. 
+Answers to questions in each section should be tied together and handed in 
+separately. 
+Attachments: none. 
+STATIONERY REQUIREMENTS 
+SPECIAL REQUIREMENTS 
+Single-sided script paper 
+Engineering Data Book 
+CUED approved calculator allowed 
+You may not start to read the questions 
+printed on the subsequent pages of this 
+question paper until instructed that you 
+may do so by the Invigilator 
+fcOS 
+2  
+SECTION A 
+(a) 
+The two thin-walled cross-sections shown in Fig. lea) are a square and a 
+crucifonn of the same exterior dimensions. Show that the wall thickness of the crucifonn 
+must be 2 V2 times that of 
+the box section for their stiffness in bending about the indicated 
+axis to be equal. Assume that both cross-sections are made from the same material and 
+that the wall thicknesses are uniform. 
+[4] 
+(b) 
+Two thin-walled tubes have uniform cross-sections of a square with the side­
+length L and an equilateral triangle with the base-length Wand both have wall thickness t. 
+Find the ratio of their torsion constants. 
+[8] 
+(c) 
+The cross-section of a tube is shown in Fig. 1 
+(b). It comprises four equal thin­
+walled semi-circular segments of wall thickness t connected to each other on their ends at 
+the corners of an imaginary square of side length L. The Young's and shear moduli of the 
+tube are E and G, respectively. Calculate the torsional stiffness and the bending stiffness 
+(using the Mechanics Data Book or otherwise) about the horizontal symmetry axis. 
+[8] 
+fcOS 
+3  
+(a) 
+L 
+(b) 
+Fig. 1 
+feD5 
+(TURNOVER 
+4  
+2 
+(a) 
+The upright cantilever in Fig. 2(a) has length L and is subjected to a transverse 
+distributed load wx/L, where x is the axial distance from the tip. Using virtual work, or 
+otherwise, show that the transverse deflection of the tip 8 is given by 
+wL4 
+8=­
+30EI 
+where EI is the linear elastic bending stiffness. 
+[6] 
+(b) 
+The elastic frame in Fig. 2(b) consists of one beam and two built-in columns. 
+The beam and columns have the same bending stiffness EI, pins connect the columns to 
+the beam, and the beam is continuous along its length. The beam carries a uniform loading 
+WI. A linearly varying distributed load of maximum value w2 is applied transversely to 
+one of the columns. 
+(i) 
+Find the vertical deflection of point A. 
+[8] 
+(ii) 
+Find the horizontal deflection of point A. 
+[6] 
+L 
+L/2 
+L 
+x 
+L 
+(a) 
+(b) 
+Fig. 2 
+fc05 
+5  
+3 
+A thin-walled, circlIlar cylinder of radius R = 1 
+m and uniform wall thickness 
+t 
+3 mm has closed ends. It is subjected to an internal gauge pressure p = 250 kPa and 
+an axial torque T = 600kNm. 
+(a) 
+Calculate the shear stress and the components of stress in the axial and hoop­
+wise directions. Assume that the through-thickness component of stress is zero. 
+[5] 
+(b) 
+Sketch the three-dimensional set of Mohr's circ 
+les for the state of 
+stress found 
+in (a) and determine the size of the largest shear stress and its direction by indicating an 
+appropriate sequence of rotations of the original coordinate axes. 
+[8] 
+(c) 
+If the original axial stress, hoop-wise stress and shear stress are a /2, a and 
+'f, respectively, show that yield according to the von Mises criterion is satisfied when 
+( 'f)2 
+3 (a)2
+3 Y +4 y 
+=1 
+where Y is the uniaxial yield stress. 
+[7] 
+fc05 
+(TURNOVER 
+6  
+SECTIONB 
+4 
+Figure 3(a) shows the cross-section of a long foundation slab used to support a 
+building. The slab is of width b and is designed to carry a line load P (force per unit 
+length into the page). The ground may be considered as a rigid-perfectly plastic material 
+with a yield stress in shear k. 
+(a) 
+Initially consider the slab to be rigid. By using the slip-circle mechanism 
+shown in Fig. 3(b), where rotation takes place about point C, show that an upper-bound 
+estimate of the line load at collapse is given by P = 2nkb. 
+[6] 
+(b) 
+There is concern that the foundation slab may also fail. Consider that the slab 
+is a rigid-perfectly plastic plate with plastic moment per unit length m. Using the two­
+slip-circle mechanism shown in Fig. 3(c), where a plastic hinge forms along the slab at B, 
+find another upper-bound estimate of the line load at collapse. 
+[8] 
+(c) 
+If the slab has thickness t and is made of rigid-perfectly plastic material with 
+a yield stress in shear ck, determine the required thickness of the slab to ensure that slab 
+failure does not occur in the failure mode shown in Fig. 3(c). 
+[6] 
+fcOS 
+(cont. 
+II 
+7  
+~P 
+,
+() 
+II 
+) 
+II 
+\\ 
+I ... b/2 ~I" b/2 
+~I 
+\\ 
+II 
+II 
+\\ 
+(a) 
+~P 
+II C 
+\\ 
+\\
+II 
+\\ 
+II 
+II 
+slip circle 
+II 
+(b) 
+p 
+B 
+II 
+\\ 
+\\ 
+(c) 
+Fig. 3 
+fcOS 
+(TURNOVER 
+8  
+5 
+Figure 4 shows a portal frame with a fully plastic moment M 
+p , carrying a downward 
+load 2W distributed uniformly across the beam, and a horizontal point load W acting at 
+the mid-height of the shorter column. The frame is rigidly connected to the foundations. 
+(a) 
+Sketch four reasonable collapse mechanisms where plastic hinges occur at 
+some subset of the six points marked A-F. For each mechanism, show clearly where 
+plastic hinges have formed. 
+[6] 
+(b) 
+Find an upper-bound estimate of the collapse load for each of the mechanisms 
+sketched in (a), making the assumption that any hinge at 0 occurs in the centre of the 
+beam. 
+[7] 
+(c) 
+By considering that the hinge at 0 no longer has to occur in the centre of 
+the beam, find an optimal upper-bound estimate of the collapse load that improves (even 
+marginally) upon those found in (b). 
+[7] 
+2W total load 
+± 
+-.---­
+c 
+0 
+E 
+W ... B
+... 
+A 
+41
+", I 
+41 
+I 
+F 
+", ", 
+Fig. 4 
+fc05 
+9  
+6 
+Figure 5 shows a universal beam UB356 x 127 x39 which is continuous over two 
+8 m spans. The structure is designed to carry two 100 kN point loads, one at the centre of 
+each span. The beam is made of structural steel with a yield stress of 355 MPa. 
+(a) 
+Using the elastic method, estimate the value of the load factor A when first 
+yield will occur in the structure. 
+[8] 
+(b) 
+structure. 
+Using the plastic method, find an upper bound for the load factor A in the 
+[6] 
+(c) 
+Using the answers from (a) and/or (b), or otherwise, find a lower bound for 
+the load factor A in the structure. 
+[6] 
+A 
+A 
+A 
+I~ 4m ~I. 4m ~I~ 4m ~I~ 4m ~I  
+Fig. 5  
+END OF PAPER 
+fc05 
+IB 1B 2P2 Structures
